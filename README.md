@@ -6,7 +6,9 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 
+### Test tasks
 
+[a link](https://github.com/kdv267/lotto))
 
 ### Connect with me:
 
