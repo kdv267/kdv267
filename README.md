@@ -8,7 +8,7 @@
 
 ### Test tasks
 
-[a link](https://github.com/kdv267/lotto))
+[Lotto](https://github.com/kdv267/lotto)
 
 ### Connect with me:
 
