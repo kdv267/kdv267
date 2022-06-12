@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Dmitry Kotov| Instagram" width="22px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
-[<img align="left" alt="Dmitry Kotov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Dmitry Kotov| Instagram" width="25px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
+[<img align="left" alt="Dmitry Kotov | VK" width="25px" src="https://img.icons8.com/color/48/undefined/vk-circled.png" />][vk]
 
 <br />
 
